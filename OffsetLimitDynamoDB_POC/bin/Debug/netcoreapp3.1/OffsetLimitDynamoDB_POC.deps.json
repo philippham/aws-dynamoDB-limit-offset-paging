@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OffsetLimitDynamoDB_POC/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.104.24"
+        },
+        "runtime": {
+          "OffsetLimitDynamoDB_POC.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.104.22": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.22"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.3.104.24": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.104.22"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.24"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OffsetLimitDynamoDB_POC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.104.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qILb9vunz6mUWy+wt6j737u5lyh/NPHp7Sbs08ZgkNPsyuOwZC1Wzr4ecgzLDu88GP3qOig08msHz5FGJvhspA==",
+      "path": "awssdk.core/3.3.104.22",
+      "hashPath": "awssdk.core.3.3.104.22.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.3.104.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+nfJ+rgopbqlYJv7iP+8Ths6WgWOPDjI6fbAzriAUnX2dVDKV5hDqiVYfhGtUE/lfpmZbGW01mpu1gqHr/VvUw==",
+      "path": "awssdk.dynamodbv2/3.3.104.24",
+      "hashPath": "awssdk.dynamodbv2.3.3.104.24.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\bin\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.exe
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\obj\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.csprojAssemblyReference.cache
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\obj\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.AssemblyInfoInputs.cache
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\obj\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.AssemblyInfo.cs
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\bin\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.deps.json
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\bin\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.runtimeconfig.json
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\bin\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.runtimeconfig.dev.json
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\bin\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.dll
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\bin\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.pdb
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\obj\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.csproj.CopyComplete
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\obj\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.dll
+C:\Users\pnpham\Source\Repos\OffsetLimitDynamoDB_POC\OffsetLimitDynamoDB_POC\obj\Debug\netcoreapp3.1\OffsetLimitDynamoDB_POC.pdb
